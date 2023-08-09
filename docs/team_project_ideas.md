@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | teammate name | teammate name | teammate name | teammate name | teammate name | teammate name |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
-| Second idea | Description | | | | | | |
-| ... | Description | | | | | | |
-| Last idea | Description | | | | | | |
+| Project Idea | Description | Atticus | Brandon | Crystal | Johnathon | Rachel |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| First idea | Description | | | | | |
+| Second idea | Description | | | | | |
+| ... | Description | | | | | |
+| Last idea | Description | | | | | |
